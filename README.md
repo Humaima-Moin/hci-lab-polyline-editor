@@ -1,3 +1,69 @@
+👤 My Contribution (Analysis Phase)
+
+🧩 My Role
+Phase 2 — Analysis (HCI)
+
+## ✨ What I Did
+
+* Performed **task-based analysis** of the Polyline Drawing Tool
+* Broke down user interactions using **Task Decomposition**
+* Identified user knowledge requirements using **Knowledge-Based Analysis**
+* Modeled system structure using **Entity–Relation Analysis**
+* Analyzed user workflows (Draw, Move, Delete, Refresh)
+* Identified system challenges and usability issues
+* Defined interaction logic such as:
+
+  * Mode switching (b, m, d, r)
+  * Nearest-point selection
+* Contributed to improving system understanding before implementation
+
+---
+
+## 📄 My Work
+
+See documentation:
+
+* `/docs/analysis.md`
+
+---
+
+## ⚠️ Challenges Faced
+
+* Understanding and defining **nearest-point detection logic**
+* Handling **multiple interaction modes** without confusion
+* Identifying potential **user errors (wrong selection, deletion)**
+* Structuring analysis using **multiple HCI techniques**
+* Balancing system complexity with usability
+
+---
+
+## 🧠 Key Analysis Decisions
+
+* Used **task decomposition** to clearly define user workflows
+* Applied **knowledge-based analysis** to identify what users must know
+* Used **entity–relation analysis** to structure system components
+* Highlighted **mode-based interaction** as a critical system behavior
+* Focused on **usability issues** like feedback and error prevention
+
+---
+
+## 🛠 Role in Implementation
+
+Implementation was completed collaboratively.
+My contribution focused on:
+
+* Providing **clear analysis for system design**
+* Assisting in **logic understanding (nearest point, modes)**
+* Supporting testing by identifying usability issues
+* Analysis done by: Humaima Moin B23110006043
+
+  ---
+
+  🔗 Original Repository
+(https://github.com/Sana-212/hci-lab-polyline-editor.git)
+
+---
+
 # Polyline Editor
 
 An interactive web application for creating, editing, and managing multiple polylines on a canvas. The **Polyline Editor** allows users to draw, move, delete, and style polylines in real-time with intuitive controls and visual feedback.
